@@ -24,7 +24,7 @@ export default {
     const box = document.body.appendChild(document.createElement('div'));
     box.classList.add('box', 'loading');
     box.insertAdjacentHTML('beforeend', app.template);
-    const cv = await fetch`../cv.md`;
+    const cv = await fetch`./cv.md`;
     const md = markdownit({html: true, linkify: true, typographer: true});
     box.querySelector('main').innerHTML = md.render(await cv.text());
     box.querySelector('nav').appendChild(await tocMenu());
