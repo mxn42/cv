@@ -14,7 +14,7 @@
 \
 My overall experience of more than 20 years, I have worked at Zodiac Systems (now part of Orion Innovation), Quest Software (Dell), and JetBrains. My current expertise is in the JavaScript stack. I hold a master’s degree in Math and CS from Moscow Pedagogical State University.
 
-I'm deeply into JavaScript, and more I'm a JS fun. I have experience with other languages, including Python, and I'm sure JavaScript is the best.  
+I'm deeply into JavaScript, and more I'm a JS fan. I have experience with other languages, including Python, and I'm sure JavaScript is the best.  
 
 I love spending time with my family, also I enjoy traveling, hiking, canoeing, and playing board games.
 
@@ -83,7 +83,7 @@ _**Master of Science**_, Mathematics and Computer Science
 - Draw and read: UML, SADT, and other diagrams
 - OS: **Windows (from 3.1), Linux (Ubuntu, Mint)**
 - Management: **up to 20 people team**
-- Teach CS expirience: **Upper primary schools, College, University**
+- Teach CS experience: **Upper primary schools, College, University**
 
 ### Soft
 
@@ -98,7 +98,7 @@ _**Master of Science**_, Mathematics and Computer Science
 
 - Mainly: Fatherhood
 - Outdoors: Hiking, Canoeing, Active games
-- Indoors: Board games (especially tafl, chess, go), Сard games (primarily poker), Watching movies, Reading books
+- Indoors: Board games (especially tafl, chess, go), Сard games (primarily poker)
 
 <a data-toc-label="Sample" data-toc-icon="bxl-javascript"></a>
 
