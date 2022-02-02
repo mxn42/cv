@@ -1,6 +1,6 @@
 # Maxim Zorin — **JavaScript Developer**
 
-<figure class="photo"><img src="mxn42-photo.jpg" alt="Maxim Zorin in winter" width="30%" align="right"></figure>
+<figure class="photo"><img src="assets/mxn42-photo.jpg" alt="Maxim Zorin in winter" width="30%" align="right"></figure>
 
 <aside data-toc-label="Contacts" data-toc-icon="bxs-user-detail">
 <ul class="contacts">
@@ -12,7 +12,7 @@
 
 <a data-toc-label="About" data-toc-icon="bx-message-square-detail"></a>
 \
-My overall experience of more than 20 years, I have worked at Zodiac Systems (now part of Orion Innovation), Quest Software (Dell), and JetBrains. My current expertise is in the JavaScript stack. I hold a master’s degree in Math and CS from Moscow Pedagogical State University.
+Most of my experience has been working for large international companies Zodiac Systems (now part of Orion Innovation), Quest Software (Dell), and JetBrains. Currently, I am in the JavaScript stack. I have a master's degree in Mathematics and CS from Moscow State Pedagogical University.
 
 I'm deeply into JavaScript, and more I'm a JS fan. I have experience with other languages, including Python, and I'm sure JavaScript is the best.  
 
@@ -69,7 +69,6 @@ I love spending time with my family, also I enjoy traveling, hiking, canoeing, a
 
 - 1992-1997 **Moscow Pedagogical State University** \
 _**Master of Science**_, Mathematics and Computer Science
-- Ancient artifacts: Specialist [Internet User](../assets/images/specialist-internet-user.jpg), Brainbench [HTML Programmer](../assets/images/brainbench-html-programmer.jpg)
 
 <a data-toc-label="Skills" data-toc-icon="bx-cog"></a>
 
